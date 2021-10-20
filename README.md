@@ -1,2 +1,2 @@
 # TREE
-- Here the algorithms & Data structures about tree 
+- Here the algorithms & Data structures about tree are stored.
